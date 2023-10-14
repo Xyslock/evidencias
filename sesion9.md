@@ -3,6 +3,9 @@
 
 ## Sesión 9 
 
+Actividad: Ejercicio de limpieza de datos con Pandas
+
+
 import pandas as pd
 import streamlit as st
 import os
